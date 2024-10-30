@@ -99,9 +99,3 @@ pip install django-cors-headers
 
 Configurar CORS en Django es esencial para permitir que tu aplicación frontend se comunique de forma segura con tu backend. Siguiendo estos pasos, podrás evitar errores CORS y garantizar una correcta interacción entre tus aplicaciones.
 
-**Añade más secciones a tu README si lo consideras necesario:**
-
-* Ejemplos de código más detallados.
-* Diagramas que ilustren el flujo de las solicitudes.
-* Solución de problemas comunes.
-* Enlaces a recursos adicionales.
