@@ -43,7 +43,7 @@ pip install django-cors-headers
 
   ```python
   CORS_ORIGIN_WHITELIST = [
-      'http://localhost:4200',  # Reemplaza con el dominio de tu aplicación Angular
+      'http://localhost:4200',  # Reemplaza con el dominio de tu aplicación
   ]
   ```
 
